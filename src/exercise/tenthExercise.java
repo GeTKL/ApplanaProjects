@@ -31,6 +31,7 @@ public class tenthExercise {
                 System.out.print(" " + array[i][j] + " ");
             }
             System.out.println();
+            break;
         }
 
     }
