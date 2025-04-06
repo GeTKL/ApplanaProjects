@@ -16,7 +16,7 @@ public class firstExamExercise {
         check();
         double rubles = in.nextDouble();
 
-        double total = dollar * rubles;
+        double total = rubles / dollar;
         System.out.println("Итого: " + String.format("%.2f",total));
     }
 
