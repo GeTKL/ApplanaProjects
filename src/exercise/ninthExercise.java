@@ -33,7 +33,7 @@ public class ninthExercise {
         for(Double number : arrayDouble){
             number = sum * arrayDouble[counter];
             arrayDouble[counter] = number;
-            System.out.println(arrayDouble[counter] + " ");
+            System.out.print(arrayDouble[counter] + " ");
             counter++;
         }
     }
