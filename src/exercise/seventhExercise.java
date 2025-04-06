@@ -2,7 +2,7 @@ package exercise;
 
 import java.util.Scanner;
 
-public class sevenExercise {
+public class seventhExercise {
     public static void compareArray(){
         final int x = 12;
         final int y = 5;
