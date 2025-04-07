@@ -3,7 +3,8 @@ import exercise.*;
 
 public class Main {
     public static void main(String[] args) {
-        fourtheethExercise.ArrayRandom();
+        thirteenthExercise.latinWords();
+        //fourtheethExercise.ArrayRandom(); - 14 задание
         //fourthExamExercise.riddle(); // 4 итоговое задание
         // thirdExamExercise.stringMoreLength(); // 3 задание
        // secondExamExercise.variableConvert(); //2 адание
